@@ -1,0 +1,46 @@
+.sidebar {
+  width: 40%;
+  float: right;
+  background-color: yellow;
+}
+
+.column {
+  width: 40%;
+  float: left;
+  padding: 25px;
+
+}
+
+.column2 {
+  width: 40%;
+  float: left;
+  padding: 25px;
+  font-weight: bold;
+
+}
+
+.box1 {
+  border: 2px solid black;
+  padding: 5px;
+  text-align: center;
+}
+
+.box2 {
+  text-align: center;
+}
+
+.centerimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.grbg {
+  background-color: #90EE90;
+  text-align: center;
+}
+
+.main {
+  padding-left: 20px;
+  padding-right: 20px;
+}
